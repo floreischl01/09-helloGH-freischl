@@ -30,3 +30,5 @@ Das Projekt besteht aus einem einfachen Hello-World-Programm, das als Grundlage 
 
 ## Fazit
 Dieses Projekt dient als Einstieg in die Versionskontrolle und bildet die Grundlage für zukünftige, komplexere Projekte.
+
+Kleine Änderung hier passiert
